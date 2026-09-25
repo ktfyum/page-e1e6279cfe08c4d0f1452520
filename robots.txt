@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.wku416.cn/sitemap.xml
